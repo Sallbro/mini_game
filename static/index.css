@@ -148,6 +148,7 @@ a {
 
 .info img {
   height: 3em;
+  border-radius: 15px;
   margin-right: 0.5em;
 }
 
